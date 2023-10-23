@@ -1,0 +1,17 @@
+security 
+
+sql injection 
+To prevent this use:
+ - prepare statement
+ - js- ajax 
+ - 
+
+ validation:
+ - cookie
+ - session 
+ - prepare statement
+
+
+
+
+
